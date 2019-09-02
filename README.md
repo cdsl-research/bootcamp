@@ -1,0 +1,2 @@
+# bootcamp
+PyCharmを使ったpythonのチュートリアルとgithubの使い方の勉強用リポジトリ
